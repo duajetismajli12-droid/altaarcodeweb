@@ -1,0 +1,15 @@
+{
+  "name": "altaar-website",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Altaar premium residential website with shared Admin API for Vercel",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/blob": "^0.27.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
